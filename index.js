@@ -27,8 +27,8 @@ async function loadData() {
         console.log(timeTableCustomer);
         console.log(timeTableRoom);
         console.log(numberOfDayGlobal);
-        drawTableByCustomer(timeTableCustomer, numberOfDayGlobal);
         drawTableByRoom(timeTableRoom, numberOfDayGlobal);
+        drawTableByCustomer(timeTableCustomer, numberOfDayGlobal);
     } catch (error) {
         console.error("Error loading JSON files:", error);
     }
