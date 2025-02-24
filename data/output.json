@@ -1,0 +1,1522 @@
+[
+    {
+        "customer": {
+            "id": 1,
+            "name": "Nguyễn Văn A"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 9,
+                    "name": "Siêu âm ổ bụng",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 1,
+                    "name": "Phòng 101"
+                },
+                "operator": {
+                    "id": 1,
+                    "name": "Bác sĩ Nguyễn Hữu An"
+                },
+                "start_time": "7:00 AM",
+                "end_time": "7:30 AM"
+            },
+            {
+                "service": {
+                    "id": 6,
+                    "name": "Khám nội tiết",
+                    "duration": 45
+                },
+                "room": {
+                    "id": 1,
+                    "name": "Phòng 101"
+                },
+                "operator": {
+                    "id": 1,
+                    "name": "Bác sĩ Nguyễn Hữu An"
+                },
+                "start_time": "7:30 AM",
+                "end_time": "8:15 AM"
+            },
+            {
+                "service": {
+                    "id": 4,
+                    "name": "Khám tim mạch",
+                    "duration": 40
+                },
+                "room": {
+                    "id": 1,
+                    "name": "Phòng 101"
+                },
+                "operator": {
+                    "id": 1,
+                    "name": "Bác sĩ Nguyễn Hữu An"
+                },
+                "start_time": "8:15 AM",
+                "end_time": "8:55 AM"
+            },
+            {
+                "service": {
+                    "id": 3,
+                    "name": "Khám mắt",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 1,
+                    "name": "Phòng 101"
+                },
+                "operator": {
+                    "id": 1,
+                    "name": "Bác sĩ Nguyễn Hữu An"
+                },
+                "start_time": "8:55 AM",
+                "end_time": "9:20 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 2,
+            "name": "Trần Thị B"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 1,
+                    "name": "Khám tổng quát",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 2,
+                    "name": "Phòng 102"
+                },
+                "operator": {
+                    "id": 2,
+                    "name": "Bác sĩ Trần Văn Bình"
+                },
+                "start_time": "7:00 AM",
+                "end_time": "7:30 AM"
+            },
+            {
+                "service": {
+                    "id": 10,
+                    "name": "Chụp X-quang",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 2,
+                    "name": "Phòng 102"
+                },
+                "operator": {
+                    "id": 2,
+                    "name": "Bác sĩ Trần Văn Bình"
+                },
+                "start_time": "7:30 AM",
+                "end_time": "7:55 AM"
+            },
+            {
+                "service": {
+                    "id": 6,
+                    "name": "Khám nội tiết",
+                    "duration": 45
+                },
+                "room": {
+                    "id": 2,
+                    "name": "Phòng 102"
+                },
+                "operator": {
+                    "id": 2,
+                    "name": "Bác sĩ Trần Văn Bình"
+                },
+                "start_time": "7:55 AM",
+                "end_time": "8:40 AM"
+            },
+            {
+                "service": {
+                    "id": 2,
+                    "name": "Khám răng",
+                    "duration": 20
+                },
+                "room": {
+                    "id": 2,
+                    "name": "Phòng 102"
+                },
+                "operator": {
+                    "id": 2,
+                    "name": "Bác sĩ Trần Văn Bình"
+                },
+                "start_time": "8:40 AM",
+                "end_time": "9:00 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 3,
+            "name": "Lê Minh C"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 6,
+                    "name": "Khám nội tiết",
+                    "duration": 45
+                },
+                "room": {
+                    "id": 3,
+                    "name": "Phòng 103"
+                },
+                "operator": {
+                    "id": 3,
+                    "name": "Bác sĩ Lê Thị Cẩm"
+                },
+                "start_time": "7:00 AM",
+                "end_time": "7:45 AM"
+            },
+            {
+                "service": {
+                    "id": 1,
+                    "name": "Khám tổng quát",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 3,
+                    "name": "Phòng 103"
+                },
+                "operator": {
+                    "id": 3,
+                    "name": "Bác sĩ Lê Thị Cẩm"
+                },
+                "start_time": "7:45 AM",
+                "end_time": "8:15 AM"
+            },
+            {
+                "service": {
+                    "id": 8,
+                    "name": "Xét nghiệm máu",
+                    "duration": 15
+                },
+                "room": {
+                    "id": 3,
+                    "name": "Phòng 103"
+                },
+                "operator": {
+                    "id": 3,
+                    "name": "Bác sĩ Lê Thị Cẩm"
+                },
+                "start_time": "8:15 AM",
+                "end_time": "8:30 AM"
+            },
+            {
+                "service": {
+                    "id": 10,
+                    "name": "Chụp X-quang",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 3,
+                    "name": "Phòng 103"
+                },
+                "operator": {
+                    "id": 3,
+                    "name": "Bác sĩ Lê Thị Cẩm"
+                },
+                "start_time": "8:30 AM",
+                "end_time": "8:55 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 4,
+            "name": "Phạm Quốc D"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 7,
+                    "name": "Khám thần kinh",
+                    "duration": 50
+                },
+                "room": {
+                    "id": 4,
+                    "name": "Phòng 104"
+                },
+                "operator": {
+                    "id": 4,
+                    "name": "Bác sĩ Phạm Quốc Dũng"
+                },
+                "start_time": "7:00 AM",
+                "end_time": "7:50 AM"
+            },
+            {
+                "service": {
+                    "id": 1,
+                    "name": "Khám tổng quát",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 4,
+                    "name": "Phòng 104"
+                },
+                "operator": {
+                    "id": 4,
+                    "name": "Bác sĩ Phạm Quốc Dũng"
+                },
+                "start_time": "7:50 AM",
+                "end_time": "8:20 AM"
+            },
+            {
+                "service": {
+                    "id": 2,
+                    "name": "Khám răng",
+                    "duration": 20
+                },
+                "room": {
+                    "id": 4,
+                    "name": "Phòng 104"
+                },
+                "operator": {
+                    "id": 4,
+                    "name": "Bác sĩ Phạm Quốc Dũng"
+                },
+                "start_time": "8:20 AM",
+                "end_time": "8:40 AM"
+            },
+            {
+                "service": {
+                    "id": 6,
+                    "name": "Khám nội tiết",
+                    "duration": 45
+                },
+                "room": {
+                    "id": 4,
+                    "name": "Phòng 104"
+                },
+                "operator": {
+                    "id": 4,
+                    "name": "Bác sĩ Phạm Quốc Dũng"
+                },
+                "start_time": "8:40 AM",
+                "end_time": "9:25 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 5,
+            "name": "Đỗ Hoàng E"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 1,
+                    "name": "Khám tổng quát",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 5,
+                    "name": "Phòng 105"
+                },
+                "operator": {
+                    "id": 5,
+                    "name": "Bác sĩ Đỗ Thị Hoa"
+                },
+                "start_time": "7:00 AM",
+                "end_time": "7:30 AM"
+            },
+            {
+                "service": {
+                    "id": 8,
+                    "name": "Xét nghiệm máu",
+                    "duration": 15
+                },
+                "room": {
+                    "id": 5,
+                    "name": "Phòng 105"
+                },
+                "operator": {
+                    "id": 5,
+                    "name": "Bác sĩ Đỗ Thị Hoa"
+                },
+                "start_time": "7:30 AM",
+                "end_time": "7:45 AM"
+            },
+            {
+                "service": {
+                    "id": 2,
+                    "name": "Khám răng",
+                    "duration": 20
+                },
+                "room": {
+                    "id": 5,
+                    "name": "Phòng 105"
+                },
+                "operator": {
+                    "id": 5,
+                    "name": "Bác sĩ Đỗ Thị Hoa"
+                },
+                "start_time": "7:45 AM",
+                "end_time": "8:05 AM"
+            },
+            {
+                "service": {
+                    "id": 6,
+                    "name": "Khám nội tiết",
+                    "duration": 45
+                },
+                "room": {
+                    "id": 5,
+                    "name": "Phòng 105"
+                },
+                "operator": {
+                    "id": 5,
+                    "name": "Bác sĩ Đỗ Thị Hoa"
+                },
+                "start_time": "8:05 AM",
+                "end_time": "8:50 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 6,
+            "name": "Võ Thanh F"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 4,
+                    "name": "Khám tim mạch",
+                    "duration": 40
+                },
+                "room": {
+                    "id": 6,
+                    "name": "Phòng 106"
+                },
+                "operator": {
+                    "id": 6,
+                    "name": "Bác sĩ Võ Minh Khang"
+                },
+                "start_time": "7:00 AM",
+                "end_time": "7:40 AM"
+            },
+            {
+                "service": {
+                    "id": 6,
+                    "name": "Khám nội tiết",
+                    "duration": 45
+                },
+                "room": {
+                    "id": 6,
+                    "name": "Phòng 106"
+                },
+                "operator": {
+                    "id": 6,
+                    "name": "Bác sĩ Võ Minh Khang"
+                },
+                "start_time": "7:40 AM",
+                "end_time": "8:25 AM"
+            },
+            {
+                "service": {
+                    "id": 7,
+                    "name": "Khám thần kinh",
+                    "duration": 50
+                },
+                "room": {
+                    "id": 6,
+                    "name": "Phòng 106"
+                },
+                "operator": {
+                    "id": 6,
+                    "name": "Bác sĩ Võ Minh Khang"
+                },
+                "start_time": "8:25 AM",
+                "end_time": "9:15 AM"
+            },
+            {
+                "service": {
+                    "id": 8,
+                    "name": "Xét nghiệm máu",
+                    "duration": 15
+                },
+                "room": {
+                    "id": 2,
+                    "name": "Phòng 102"
+                },
+                "operator": {
+                    "id": 2,
+                    "name": "Bác sĩ Trần Văn Bình"
+                },
+                "start_time": "9:15 AM",
+                "end_time": "9:30 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 7,
+            "name": "Bùi Thị G"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 3,
+                    "name": "Khám mắt",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 7,
+                    "name": "Phòng 107"
+                },
+                "operator": {
+                    "id": 7,
+                    "name": "Bác sĩ Bùi Ngọc Lan"
+                },
+                "start_time": "7:00 AM",
+                "end_time": "7:25 AM"
+            },
+            {
+                "service": {
+                    "id": 4,
+                    "name": "Khám tim mạch",
+                    "duration": 40
+                },
+                "room": {
+                    "id": 7,
+                    "name": "Phòng 107"
+                },
+                "operator": {
+                    "id": 7,
+                    "name": "Bác sĩ Bùi Ngọc Lan"
+                },
+                "start_time": "7:25 AM",
+                "end_time": "8:05 AM"
+            },
+            {
+                "service": {
+                    "id": 10,
+                    "name": "Chụp X-quang",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 7,
+                    "name": "Phòng 107"
+                },
+                "operator": {
+                    "id": 7,
+                    "name": "Bác sĩ Bùi Ngọc Lan"
+                },
+                "start_time": "8:05 AM",
+                "end_time": "8:30 AM"
+            },
+            {
+                "service": {
+                    "id": 1,
+                    "name": "Khám tổng quát",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 7,
+                    "name": "Phòng 107"
+                },
+                "operator": {
+                    "id": 7,
+                    "name": "Bác sĩ Bùi Ngọc Lan"
+                },
+                "start_time": "8:30 AM",
+                "end_time": "9:00 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 8,
+            "name": "Ngô Khánh H"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 7,
+                    "name": "Khám thần kinh",
+                    "duration": 50
+                },
+                "room": {
+                    "id": 8,
+                    "name": "Phòng 108"
+                },
+                "operator": {
+                    "id": 8,
+                    "name": "Bác sĩ Ngô Văn Minh"
+                },
+                "start_time": "7:00 AM",
+                "end_time": "7:50 AM"
+            },
+            {
+                "service": {
+                    "id": 6,
+                    "name": "Khám nội tiết",
+                    "duration": 45
+                },
+                "room": {
+                    "id": 8,
+                    "name": "Phòng 108"
+                },
+                "operator": {
+                    "id": 8,
+                    "name": "Bác sĩ Ngô Văn Minh"
+                },
+                "start_time": "7:50 AM",
+                "end_time": "8:35 AM"
+            },
+            {
+                "service": {
+                    "id": 8,
+                    "name": "Xét nghiệm máu",
+                    "duration": 15
+                },
+                "room": {
+                    "id": 8,
+                    "name": "Phòng 108"
+                },
+                "operator": {
+                    "id": 8,
+                    "name": "Bác sĩ Ngô Văn Minh"
+                },
+                "start_time": "8:35 AM",
+                "end_time": "8:50 AM"
+            },
+            {
+                "service": {
+                    "id": 5,
+                    "name": "Khám tai mũi họng",
+                    "duration": 35
+                },
+                "room": {
+                    "id": 5,
+                    "name": "Phòng 105"
+                },
+                "operator": {
+                    "id": 5,
+                    "name": "Bác sĩ Đỗ Thị Hoa"
+                },
+                "start_time": "8:50 AM",
+                "end_time": "9:25 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 9,
+            "name": "Dương Văn I"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 4,
+                    "name": "Khám tim mạch",
+                    "duration": 40
+                },
+                "room": {
+                    "id": 9,
+                    "name": "Phòng 109"
+                },
+                "operator": {
+                    "id": 9,
+                    "name": "Bác sĩ Dương Huy Nam"
+                },
+                "start_time": "7:00 AM",
+                "end_time": "7:40 AM"
+            },
+            {
+                "service": {
+                    "id": 8,
+                    "name": "Xét nghiệm máu",
+                    "duration": 15
+                },
+                "room": {
+                    "id": 9,
+                    "name": "Phòng 109"
+                },
+                "operator": {
+                    "id": 9,
+                    "name": "Bác sĩ Dương Huy Nam"
+                },
+                "start_time": "7:40 AM",
+                "end_time": "7:55 AM"
+            },
+            {
+                "service": {
+                    "id": 9,
+                    "name": "Siêu âm ổ bụng",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 9,
+                    "name": "Phòng 109"
+                },
+                "operator": {
+                    "id": 9,
+                    "name": "Bác sĩ Dương Huy Nam"
+                },
+                "start_time": "7:55 AM",
+                "end_time": "8:25 AM"
+            },
+            {
+                "service": {
+                    "id": 3,
+                    "name": "Khám mắt",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 9,
+                    "name": "Phòng 109"
+                },
+                "operator": {
+                    "id": 9,
+                    "name": "Bác sĩ Dương Huy Nam"
+                },
+                "start_time": "8:25 AM",
+                "end_time": "8:50 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 10,
+            "name": "Hà Thị J"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 1,
+                    "name": "Khám tổng quát",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 10,
+                    "name": "Phòng 110"
+                },
+                "operator": {
+                    "id": 10,
+                    "name": "Bác sĩ Hà Thị Oanh"
+                },
+                "start_time": "7:00 AM",
+                "end_time": "7:30 AM"
+            },
+            {
+                "service": {
+                    "id": 7,
+                    "name": "Khám thần kinh",
+                    "duration": 50
+                },
+                "room": {
+                    "id": 10,
+                    "name": "Phòng 110"
+                },
+                "operator": {
+                    "id": 10,
+                    "name": "Bác sĩ Hà Thị Oanh"
+                },
+                "start_time": "7:30 AM",
+                "end_time": "8:20 AM"
+            },
+            {
+                "service": {
+                    "id": 10,
+                    "name": "Chụp X-quang",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 10,
+                    "name": "Phòng 110"
+                },
+                "operator": {
+                    "id": 10,
+                    "name": "Bác sĩ Hà Thị Oanh"
+                },
+                "start_time": "8:20 AM",
+                "end_time": "8:45 AM"
+            },
+            {
+                "service": {
+                    "id": 2,
+                    "name": "Khám răng",
+                    "duration": 20
+                },
+                "room": {
+                    "id": 10,
+                    "name": "Phòng 110"
+                },
+                "operator": {
+                    "id": 10,
+                    "name": "Bác sĩ Hà Thị Oanh"
+                },
+                "start_time": "8:45 AM",
+                "end_time": "9:05 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 11,
+            "name": "Lý Minh K"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 7,
+                    "name": "Khám thần kinh",
+                    "duration": 50
+                },
+                "room": {
+                    "id": 8,
+                    "name": "Phòng 108"
+                },
+                "operator": {
+                    "id": 8,
+                    "name": "Bác sĩ Ngô Văn Minh"
+                },
+                "start_time": "8:50 AM",
+                "end_time": "9:40 AM"
+            },
+            {
+                "service": {
+                    "id": 4,
+                    "name": "Khám tim mạch",
+                    "duration": 40
+                },
+                "room": {
+                    "id": 1,
+                    "name": "Phòng 101"
+                },
+                "operator": {
+                    "id": 1,
+                    "name": "Bác sĩ Nguyễn Hữu An"
+                },
+                "start_time": "9:40 AM",
+                "end_time": "10:20 AM"
+            },
+            {
+                "service": {
+                    "id": 1,
+                    "name": "Khám tổng quát",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 1,
+                    "name": "Phòng 101"
+                },
+                "operator": {
+                    "id": 1,
+                    "name": "Bác sĩ Nguyễn Hữu An"
+                },
+                "start_time": "10:20 AM",
+                "end_time": "10:50 AM"
+            },
+            {
+                "service": {
+                    "id": 10,
+                    "name": "Chụp X-quang",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 1,
+                    "name": "Phòng 101"
+                },
+                "operator": {
+                    "id": 1,
+                    "name": "Bác sĩ Nguyễn Hữu An"
+                },
+                "start_time": "10:50 AM",
+                "end_time": "11:15 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 12,
+            "name": "Phan Ngọc L"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 8,
+                    "name": "Xét nghiệm máu",
+                    "duration": 15
+                },
+                "room": {
+                    "id": 9,
+                    "name": "Phòng 109"
+                },
+                "operator": {
+                    "id": 9,
+                    "name": "Bác sĩ Dương Huy Nam"
+                },
+                "start_time": "8:50 AM",
+                "end_time": "9:05 AM"
+            },
+            {
+                "service": {
+                    "id": 1,
+                    "name": "Khám tổng quát",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 3,
+                    "name": "Phòng 103"
+                },
+                "operator": {
+                    "id": 3,
+                    "name": "Bác sĩ Lê Thị Cẩm"
+                },
+                "start_time": "9:05 AM",
+                "end_time": "9:35 AM"
+            },
+            {
+                "service": {
+                    "id": 2,
+                    "name": "Khám răng",
+                    "duration": 20
+                },
+                "room": {
+                    "id": 2,
+                    "name": "Phòng 102"
+                },
+                "operator": {
+                    "id": 2,
+                    "name": "Bác sĩ Trần Văn Bình"
+                },
+                "start_time": "9:35 AM",
+                "end_time": "9:55 AM"
+            },
+            {
+                "service": {
+                    "id": 3,
+                    "name": "Khám mắt",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 2,
+                    "name": "Phòng 102"
+                },
+                "operator": {
+                    "id": 2,
+                    "name": "Bác sĩ Trần Văn Bình"
+                },
+                "start_time": "9:55 AM",
+                "end_time": "10:20 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 13,
+            "name": "Vũ Quốc M"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 8,
+                    "name": "Xét nghiệm máu",
+                    "duration": 15
+                },
+                "room": {
+                    "id": 7,
+                    "name": "Phòng 107"
+                },
+                "operator": {
+                    "id": 7,
+                    "name": "Bác sĩ Bùi Ngọc Lan"
+                },
+                "start_time": "9:00 AM",
+                "end_time": "9:15 AM"
+            },
+            {
+                "service": {
+                    "id": 4,
+                    "name": "Khám tim mạch",
+                    "duration": 40
+                },
+                "room": {
+                    "id": 6,
+                    "name": "Phòng 106"
+                },
+                "operator": {
+                    "id": 6,
+                    "name": "Bác sĩ Võ Minh Khang"
+                },
+                "start_time": "9:15 AM",
+                "end_time": "9:55 AM"
+            },
+            {
+                "service": {
+                    "id": 3,
+                    "name": "Khám mắt",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 3,
+                    "name": "Phòng 103"
+                },
+                "operator": {
+                    "id": 3,
+                    "name": "Bác sĩ Lê Thị Cẩm"
+                },
+                "start_time": "9:55 AM",
+                "end_time": "10:20 AM"
+            },
+            {
+                "service": {
+                    "id": 6,
+                    "name": "Khám nội tiết",
+                    "duration": 45
+                },
+                "room": {
+                    "id": 2,
+                    "name": "Phòng 102"
+                },
+                "operator": {
+                    "id": 2,
+                    "name": "Bác sĩ Trần Văn Bình"
+                },
+                "start_time": "10:20 AM",
+                "end_time": "11:05 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 14,
+            "name": "Nguyễn Anh N"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 5,
+                    "name": "Khám tai mũi họng",
+                    "duration": 35
+                },
+                "room": {
+                    "id": 9,
+                    "name": "Phòng 109"
+                },
+                "operator": {
+                    "id": 9,
+                    "name": "Bác sĩ Dương Huy Nam"
+                },
+                "start_time": "9:05 AM",
+                "end_time": "9:40 AM"
+            },
+            {
+                "service": {
+                    "id": 3,
+                    "name": "Khám mắt",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 4,
+                    "name": "Phòng 104"
+                },
+                "operator": {
+                    "id": 4,
+                    "name": "Bác sĩ Phạm Quốc Dũng"
+                },
+                "start_time": "9:40 AM",
+                "end_time": "10:05 AM"
+            },
+            {
+                "service": {
+                    "id": 8,
+                    "name": "Xét nghiệm máu",
+                    "duration": 15
+                },
+                "room": {
+                    "id": 4,
+                    "name": "Phòng 104"
+                },
+                "operator": {
+                    "id": 4,
+                    "name": "Bác sĩ Phạm Quốc Dũng"
+                },
+                "start_time": "10:05 AM",
+                "end_time": "10:20 AM"
+            },
+            {
+                "service": {
+                    "id": 9,
+                    "name": "Siêu âm ổ bụng",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 3,
+                    "name": "Phòng 103"
+                },
+                "operator": {
+                    "id": 3,
+                    "name": "Bác sĩ Lê Thị Cẩm"
+                },
+                "start_time": "10:20 AM",
+                "end_time": "10:50 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 15,
+            "name": "Trần Bình O"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 1,
+                    "name": "Khám tổng quát",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 10,
+                    "name": "Phòng 110"
+                },
+                "operator": {
+                    "id": 10,
+                    "name": "Bác sĩ Hà Thị Oanh"
+                },
+                "start_time": "9:05 AM",
+                "end_time": "9:35 AM"
+            },
+            {
+                "service": {
+                    "id": 6,
+                    "name": "Khám nội tiết",
+                    "duration": 45
+                },
+                "room": {
+                    "id": 5,
+                    "name": "Phòng 105"
+                },
+                "operator": {
+                    "id": 5,
+                    "name": "Bác sĩ Đỗ Thị Hoa"
+                },
+                "start_time": "9:35 AM",
+                "end_time": "10:20 AM"
+            },
+            {
+                "service": {
+                    "id": 10,
+                    "name": "Chụp X-quang",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 4,
+                    "name": "Phòng 104"
+                },
+                "operator": {
+                    "id": 4,
+                    "name": "Bác sĩ Phạm Quốc Dũng"
+                },
+                "start_time": "10:20 AM",
+                "end_time": "10:45 AM"
+            },
+            {
+                "service": {
+                    "id": 2,
+                    "name": "Khám răng",
+                    "duration": 20
+                },
+                "room": {
+                    "id": 4,
+                    "name": "Phòng 104"
+                },
+                "operator": {
+                    "id": 4,
+                    "name": "Bác sĩ Phạm Quốc Dũng"
+                },
+                "start_time": "10:45 AM",
+                "end_time": "11:05 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 16,
+            "name": "Hoàng Thị P"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 10,
+                    "name": "Chụp X-quang",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 7,
+                    "name": "Phòng 107"
+                },
+                "operator": {
+                    "id": 7,
+                    "name": "Bác sĩ Bùi Ngọc Lan"
+                },
+                "start_time": "9:15 AM",
+                "end_time": "9:40 AM"
+            },
+            {
+                "service": {
+                    "id": 6,
+                    "name": "Khám nội tiết",
+                    "duration": 45
+                },
+                "room": {
+                    "id": 7,
+                    "name": "Phòng 107"
+                },
+                "operator": {
+                    "id": 7,
+                    "name": "Bác sĩ Bùi Ngọc Lan"
+                },
+                "start_time": "9:40 AM",
+                "end_time": "10:25 AM"
+            },
+            {
+                "service": {
+                    "id": 3,
+                    "name": "Khám mắt",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 5,
+                    "name": "Phòng 105"
+                },
+                "operator": {
+                    "id": 5,
+                    "name": "Bác sĩ Đỗ Thị Hoa"
+                },
+                "start_time": "10:25 AM",
+                "end_time": "10:50 AM"
+            },
+            {
+                "service": {
+                    "id": 7,
+                    "name": "Khám thần kinh",
+                    "duration": 50
+                },
+                "room": {
+                    "id": 3,
+                    "name": "Phòng 103"
+                },
+                "operator": {
+                    "id": 3,
+                    "name": "Bác sĩ Lê Thị Cẩm"
+                },
+                "start_time": "10:50 AM",
+                "end_time": "11:40 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 17,
+            "name": "Đặng Quang Q"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 6,
+                    "name": "Khám nội tiết",
+                    "duration": 45
+                },
+                "room": {
+                    "id": 10,
+                    "name": "Phòng 110"
+                },
+                "operator": {
+                    "id": 10,
+                    "name": "Bác sĩ Hà Thị Oanh"
+                },
+                "start_time": "9:35 AM",
+                "end_time": "10:20 AM"
+            },
+            {
+                "service": {
+                    "id": 7,
+                    "name": "Khám thần kinh",
+                    "duration": 50
+                },
+                "room": {
+                    "id": 6,
+                    "name": "Phòng 106"
+                },
+                "operator": {
+                    "id": 6,
+                    "name": "Bác sĩ Võ Minh Khang"
+                },
+                "start_time": "10:20 AM",
+                "end_time": "11:10 AM"
+            },
+            {
+                "service": {
+                    "id": 10,
+                    "name": "Chụp X-quang",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 2,
+                    "name": "Phòng 102"
+                },
+                "operator": {
+                    "id": 2,
+                    "name": "Bác sĩ Trần Văn Bình"
+                },
+                "start_time": "11:10 AM",
+                "end_time": "11:35 AM"
+            },
+            {
+                "service": {
+                    "id": 2,
+                    "name": "Khám răng",
+                    "duration": 20
+                },
+                "room": {
+                    "id": 1,
+                    "name": "Phòng 101"
+                },
+                "operator": {
+                    "id": 1,
+                    "name": "Bác sĩ Nguyễn Hữu An"
+                },
+                "start_time": "11:35 AM",
+                "end_time": "11:55 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 18,
+            "name": "Lê Minh R"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 4,
+                    "name": "Khám tim mạch",
+                    "duration": 40
+                },
+                "room": {
+                    "id": 8,
+                    "name": "Phòng 108"
+                },
+                "operator": {
+                    "id": 8,
+                    "name": "Bác sĩ Ngô Văn Minh"
+                },
+                "start_time": "9:40 AM",
+                "end_time": "10:20 AM"
+            },
+            {
+                "service": {
+                    "id": 2,
+                    "name": "Khám răng",
+                    "duration": 20
+                },
+                "room": {
+                    "id": 8,
+                    "name": "Phòng 108"
+                },
+                "operator": {
+                    "id": 8,
+                    "name": "Bác sĩ Ngô Văn Minh"
+                },
+                "start_time": "10:20 AM",
+                "end_time": "10:40 AM"
+            },
+            {
+                "service": {
+                    "id": 8,
+                    "name": "Xét nghiệm máu",
+                    "duration": 15
+                },
+                "room": {
+                    "id": 7,
+                    "name": "Phòng 107"
+                },
+                "operator": {
+                    "id": 7,
+                    "name": "Bác sĩ Bùi Ngọc Lan"
+                },
+                "start_time": "10:40 AM",
+                "end_time": "10:55 AM"
+            },
+            {
+                "service": {
+                    "id": 6,
+                    "name": "Khám nội tiết",
+                    "duration": 45
+                },
+                "room": {
+                    "id": 5,
+                    "name": "Phòng 105"
+                },
+                "operator": {
+                    "id": 5,
+                    "name": "Bác sĩ Đỗ Thị Hoa"
+                },
+                "start_time": "10:55 AM",
+                "end_time": "11:40 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 19,
+            "name": "Hồ Văn S"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 10,
+                    "name": "Chụp X-quang",
+                    "duration": 25
+                },
+                "room": {
+                    "id": 9,
+                    "name": "Phòng 109"
+                },
+                "operator": {
+                    "id": 9,
+                    "name": "Bác sĩ Dương Huy Nam"
+                },
+                "start_time": "9:40 AM",
+                "end_time": "10:05 AM"
+            },
+            {
+                "service": {
+                    "id": 2,
+                    "name": "Khám răng",
+                    "duration": 20
+                },
+                "room": {
+                    "id": 9,
+                    "name": "Phòng 109"
+                },
+                "operator": {
+                    "id": 9,
+                    "name": "Bác sĩ Dương Huy Nam"
+                },
+                "start_time": "10:05 AM",
+                "end_time": "10:25 AM"
+            },
+            {
+                "service": {
+                    "id": 9,
+                    "name": "Siêu âm ổ bụng",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 9,
+                    "name": "Phòng 109"
+                },
+                "operator": {
+                    "id": 9,
+                    "name": "Bác sĩ Dương Huy Nam"
+                },
+                "start_time": "10:25 AM",
+                "end_time": "10:55 AM"
+            },
+            {
+                "service": {
+                    "id": 4,
+                    "name": "Khám tim mạch",
+                    "duration": 40
+                },
+                "room": {
+                    "id": 7,
+                    "name": "Phòng 107"
+                },
+                "operator": {
+                    "id": 7,
+                    "name": "Bác sĩ Bùi Ngọc Lan"
+                },
+                "start_time": "10:55 AM",
+                "end_time": "11:35 AM"
+            }
+        ]
+    },
+    {
+        "customer": {
+            "id": 20,
+            "name": "Mai Ngọc T"
+        },
+        "appointments": [
+            {
+                "service": {
+                    "id": 9,
+                    "name": "Siêu âm ổ bụng",
+                    "duration": 30
+                },
+                "room": {
+                    "id": 10,
+                    "name": "Phòng 110"
+                },
+                "operator": {
+                    "id": 10,
+                    "name": "Bác sĩ Hà Thị Oanh"
+                },
+                "start_time": "10:20 AM",
+                "end_time": "10:50 AM"
+            },
+            {
+                "service": {
+                    "id": 8,
+                    "name": "Xét nghiệm máu",
+                    "duration": 15
+                },
+                "room": {
+                    "id": 8,
+                    "name": "Phòng 108"
+                },
+                "operator": {
+                    "id": 8,
+                    "name": "Bác sĩ Ngô Văn Minh"
+                },
+                "start_time": "10:50 AM",
+                "end_time": "11:05 AM"
+            },
+            {
+                "service": {
+                    "id": 7,
+                    "name": "Khám thần kinh",
+                    "duration": 50
+                },
+                "room": {
+                    "id": 4,
+                    "name": "Phòng 104"
+                },
+                "operator": {
+                    "id": 4,
+                    "name": "Bác sĩ Phạm Quốc Dũng"
+                },
+                "start_time": "11:05 AM",
+                "end_time": "11:55 AM"
+            },
+            {
+                "service": {
+                    "id": 6,
+                    "name": "Khám nội tiết",
+                    "duration": 45
+                },
+                "room": {
+                    "id": 1,
+                    "name": "Phòng 101"
+                },
+                "operator": {
+                    "id": 1,
+                    "name": "Bác sĩ Nguyễn Hữu An"
+                },
+                "start_time": "11:55 AM",
+                "end_time": "12:40 PM"
+            }
+        ]
+    }
+]

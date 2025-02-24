@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "name": "Khám tổng quát - Phòng 1",
+        "service_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Khám tổng quát - Phòng 2",
+        "service_id": 1
+    },
+    {
+        "id": 3,
+        "name": "Khám tổng quát - Phòng 3",
+        "service_id": 1
+    },
+    {
+        "id": 4,
+        "name": "Khám tổng quát - Phòng 4",
+        "service_id": 1
+    },
+    {
+        "id": 5,
+        "name": "Khám tổng quát - Phòng 5",
+        "service_id": 1
+    },
+    {
+        "id": 6,
+        "name": "Khám tổng quát - Phòng 6",
+        "service_id": 1
+    },
+    {
+        "id": 7,
+        "name": "Khám tổng quát - Phòng 7",
+        "service_id": 1
+    },
+    {
+        "id": 8,
+        "name": "Khám tổng quát - Phòng 8",
+        "service_id": 1
+    },
+    {
+        "id": 9,
+        "name": "Khám tổng quát - Phòng 9",
+        "service_id": 1
+    },
+    {
+        "id": 10,
+        "name": "Khám tổng quát - Phòng 10",
+        "service_id": 1
+    },
+    {
+        "id": 11,
+        "name": "Khám răng - Phòng 1",
+        "service_id": 2
+    },
+    {
+        "id": 12,
+        "name": "Khám răng - Phòng 2",
+        "service_id": 2
+    },
+    {
+        "id": 13,
+        "name": "Khám răng - Phòng 3",
+        "service_id": 2
+    },
+    {
+        "id": 14,
+        "name": "Khám răng - Phòng 4",
+        "service_id": 2
+    },
+    {
+        "id": 15,
+        "name": "Khám răng - Phòng 5",
+        "service_id": 2
+    },
+    {
+        "id": 16,
+        "name": "Khám răng - Phòng 6",
+        "service_id": 2
+    },
+    {
+        "id": 17,
+        "name": "Khám răng - Phòng 7",
+        "service_id": 2
+    },
+    {
+        "id": 18,
+        "name": "Khám răng - Phòng 8",
+        "service_id": 2
+    },
+    {
+        "id": 19,
+        "name": "Khám răng - Phòng 9",
+        "service_id": 2
+    },
+    {
+        "id": 20,
+        "name": "Khám răng - Phòng 10",
+        "service_id": 2
+    },
+    {
+        "id": 21,
+        "name": "Khám mắt - Phòng 1",
+        "service_id": 3
+    },
+    {
+        "id": 22,
+        "name": "Khám mắt - Phòng 2",
+        "service_id": 3
+    },
+    {
+        "id": 23,
+        "name": "Khám mắt - Phòng 3",
+        "service_id": 3
+    },
+    {
+        "id": 24,
+        "name": "Khám mắt - Phòng 4",
+        "service_id": 3
+    },
+    {
+        "id": 25,
+        "name": "Khám mắt - Phòng 5",
+        "service_id": 3
+    },
+    {
+        "id": 26,
+        "name": "Khám mắt - Phòng 6",
+        "service_id": 3
+    },
+    {
+        "id": 27,
+        "name": "Khám mắt - Phòng 7",
+        "service_id": 3
+    },
+    {
+        "id": 28,
+        "name": "Khám mắt - Phòng 8",
+        "service_id": 3
+    },
+    {
+        "id": 29,
+        "name": "Khám mắt - Phòng 9",
+        "service_id": 3
+    },
+    {
+        "id": 30,
+        "name": "Khám mắt - Phòng 10",
+        "service_id": 3
+    },
+    {
+        "id": 31,
+        "name": "Khám tim mạch - Phòng 1",
+        "service_id": 4
+    },
+    {
+        "id": 32,
+        "name": "Khám tim mạch - Phòng 2",
+        "service_id": 4
+    },
+    {
+        "id": 33,
+        "name": "Khám tim mạch - Phòng 3",
+        "service_id": 4
+    },
+    {
+        "id": 34,
+        "name": "Khám tim mạch - Phòng 4",
+        "service_id": 4
+    },
+    {
+        "id": 35,
+        "name": "Khám tim mạch - Phòng 5",
+        "service_id": 4
+    },
+    {
+        "id": 36,
+        "name": "Khám tim mạch - Phòng 6",
+        "service_id": 4
+    },
+    {
+        "id": 37,
+        "name": "Khám tim mạch - Phòng 7",
+        "service_id": 4
+    },
+    {
+        "id": 38,
+        "name": "Khám tim mạch - Phòng 8",
+        "service_id": 4
+    },
+    {
+        "id": 39,
+        "name": "Khám tim mạch - Phòng 9",
+        "service_id": 4
+    },
+    {
+        "id": 40,
+        "name": "Khám tim mạch - Phòng 10",
+        "service_id": 4
+    },
+    {
+        "id": 41,
+        "name": "Khám tai mũi họng - Phòng 1",
+        "service_id": 5
+    },
+    {
+        "id": 42,
+        "name": "Khám tai mũi họng - Phòng 2",
+        "service_id": 5
+    },
+    {
+        "id": 43,
+        "name": "Khám tai mũi họng - Phòng 3",
+        "service_id": 5
+    },
+    {
+        "id": 44,
+        "name": "Khám tai mũi họng - Phòng 4",
+        "service_id": 5
+    },
+    {
+        "id": 45,
+        "name": "Khám tai mũi họng - Phòng 5",
+        "service_id": 5
+    },
+    {
+        "id": 46,
+        "name": "Khám tai mũi họng - Phòng 6",
+        "service_id": 5
+    },
+    {
+        "id": 47,
+        "name": "Khám tai mũi họng - Phòng 7",
+        "service_id": 5
+    },
+    {
+        "id": 48,
+        "name": "Khám tai mũi họng - Phòng 8",
+        "service_id": 5
+    },
+    {
+        "id": 49,
+        "name": "Khám tai mũi họng - Phòng 9",
+        "service_id": 5
+    },
+    {
+        "id": 50,
+        "name": "Khám tai mũi họng - Phòng 10",
+        "service_id": 5
+    },
+    {
+        "id": 51,
+        "name": "Khám nội tiết - Phòng 1",
+        "service_id": 6
+    },
+    {
+        "id": 52,
+        "name": "Khám nội tiết - Phòng 2",
+        "service_id": 6
+    },
+    {
+        "id": 53,
+        "name": "Khám nội tiết - Phòng 3",
+        "service_id": 6
+    },
+    {
+        "id": 54,
+        "name": "Khám nội tiết - Phòng 4",
+        "service_id": 6
+    },
+    {
+        "id": 55,
+        "name": "Khám nội tiết - Phòng 5",
+        "service_id": 6
+    },
+    {
+        "id": 56,
+        "name": "Khám nội tiết - Phòng 6",
+        "service_id": 6
+    },
+    {
+        "id": 57,
+        "name": "Khám nội tiết - Phòng 7",
+        "service_id": 6
+    },
+    {
+        "id": 58,
+        "name": "Khám nội tiết - Phòng 8",
+        "service_id": 6
+    },
+    {
+        "id": 59,
+        "name": "Khám nội tiết - Phòng 9",
+        "service_id": 6
+    },
+    {
+        "id": 60,
+        "name": "Khám nội tiết - Phòng 10",
+        "service_id": 6
+    },
+    {
+        "id": 61,
+        "name": "Khám da liễu - Phòng 1",
+        "service_id": 7
+    },
+    {
+        "id": 62,
+        "name": "Khám da liễu - Phòng 2",
+        "service_id": 7
+    },
+    {
+        "id": 63,
+        "name": "Khám da liễu - Phòng 3",
+        "service_id": 7
+    },
+    {
+        "id": 64,
+        "name": "Khám da liễu - Phòng 4",
+        "service_id": 7
+    },
+    {
+        "id": 65,
+        "name": "Khám da liễu - Phòng 5",
+        "service_id": 7
+    },
+    {
+        "id": 66,
+        "name": "Khám da liễu - Phòng 6",
+        "service_id": 7
+    },
+    {
+        "id": 67,
+        "name": "Khám da liễu - Phòng 7",
+        "service_id": 7
+    },
+    {
+        "id": 68,
+        "name": "Khám da liễu - Phòng 8",
+        "service_id": 7
+    },
+    {
+        "id": 69,
+        "name": "Khám da liễu - Phòng 9",
+        "service_id": 7
+    },
+    {
+        "id": 70,
+        "name": "Khám da liễu - Phòng 10",
+        "service_id": 7
+    },
+    {
+        "id": 71,
+        "name": "Khám thần kinh - Phòng 1",
+        "service_id": 8
+    },
+    {
+        "id": 72,
+        "name": "Khám thần kinh - Phòng 2",
+        "service_id": 8
+    },
+    {
+        "id": 73,
+        "name": "Khám thần kinh - Phòng 3",
+        "service_id": 8
+    },
+    {
+        "id": 74,
+        "name": "Khám thần kinh - Phòng 4",
+        "service_id": 8
+    },
+    {
+        "id": 75,
+        "name": "Khám thần kinh - Phòng 5",
+        "service_id": 8
+    },
+    {
+        "id": 76,
+        "name": "Khám thần kinh - Phòng 6",
+        "service_id": 8
+    },
+    {
+        "id": 77,
+        "name": "Khám thần kinh - Phòng 7",
+        "service_id": 8
+    },
+    {
+        "id": 78,
+        "name": "Khám thần kinh - Phòng 8",
+        "service_id": 8
+    },
+    {
+        "id": 79,
+        "name": "Khám thần kinh - Phòng 9",
+        "service_id": 8
+    },
+    {
+        "id": 80,
+        "name": "Khám thần kinh - Phòng 10",
+        "service_id": 8
+    },
+    {
+        "id": 81,
+        "name": "Khám xương khớp - Phòng 1",
+        "service_id": 9
+    },
+    {
+        "id": 82,
+        "name": "Khám xương khớp - Phòng 2",
+        "service_id": 9
+    },
+    {
+        "id": 83,
+        "name": "Khám xương khớp - Phòng 3",
+        "service_id": 9
+    },
+    {
+        "id": 84,
+        "name": "Khám xương khớp - Phòng 4",
+        "service_id": 9
+    },
+    {
+        "id": 85,
+        "name": "Khám xương khớp - Phòng 5",
+        "service_id": 9
+    },
+    {
+        "id": 86,
+        "name": "Khám xương khớp - Phòng 6",
+        "service_id": 9
+    },
+    {
+        "id": 87,
+        "name": "Khám xương khớp - Phòng 7",
+        "service_id": 9
+    },
+    {
+        "id": 88,
+        "name": "Khám xương khớp - Phòng 8",
+        "service_id": 9
+    },
+    {
+        "id": 89,
+        "name": "Khám xương khớp - Phòng 9",
+        "service_id": 9
+    },
+    {
+        "id": 90,
+        "name": "Khám xương khớp - Phòng 10",
+        "service_id": 9
+    },
+    {
+        "id": 91,
+        "name": "Khám tiêu hóa - Phòng 1",
+        "service_id": 10
+    },
+    {
+        "id": 92,
+        "name": "Khám tiêu hóa - Phòng 2",
+        "service_id": 10
+    },
+    {
+        "id": 93,
+        "name": "Khám tiêu hóa - Phòng 3",
+        "service_id": 10
+    },
+    {
+        "id": 94,
+        "name": "Khám tiêu hóa - Phòng 4",
+        "service_id": 10
+    },
+    {
+        "id": 95,
+        "name": "Khám tiêu hóa - Phòng 5",
+        "service_id": 10
+    },
+    {
+        "id": 96,
+        "name": "Khám tiêu hóa - Phòng 6",
+        "service_id": 10
+    },
+    {
+        "id": 97,
+        "name": "Khám tiêu hóa - Phòng 7",
+        "service_id": 10
+    },
+    {
+        "id": 98,
+        "name": "Khám tiêu hóa - Phòng 8",
+        "service_id": 10
+    },
+    {
+        "id": 99,
+        "name": "Khám tiêu hóa - Phòng 9",
+        "service_id": 10
+    },
+    {
+        "id": 100,
+        "name": "Khám tiêu hóa - Phòng 10",
+        "service_id": 10
+    }
+]

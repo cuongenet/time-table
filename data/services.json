@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Khám tổng quát",
+        "duration": 30,
+        "color": "#FF5733"
+    },
+    {
+        "id": 2,
+        "name": "Khám răng",
+        "duration": 50,
+        "color": "#33A1FF"
+    },
+    {
+        "id": 3,
+        "name": "Khám mắt",
+        "duration": 55,
+        "color": "#FFD700"
+    },
+    {
+        "id": 4,
+        "name": "Khám tim mạch",
+        "duration": 40,
+        "color": "#DC143C"
+    },
+    {
+        "id": 5,
+        "name": "Khám tai mũi họng",
+        "duration": 35,
+        "color": "#32CD32"
+    },
+    {
+        "id": 6,
+        "name": "Khám nội tiết",
+        "duration": 45,
+        "color": "#8A2BE2"
+    },
+    {
+        "id": 7,
+        "name": "Khám da liễu",
+        "duration": 25,
+        "color": "#FF69B4"
+    },
+    {
+        "id": 8,
+        "name": "Khám thần kinh",
+        "duration": 50,
+        "color": "#1E90FF"
+    },
+    {
+        "id": 9,
+        "name": "Khám xương khớp",
+        "duration": 40,
+        "color": "#FF8C00"
+    },
+    {
+        "id": 10,
+        "name": "Khám tiêu hóa",
+        "duration": 60,
+        "color": "#A52A2A"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Bác sĩ Nguyễn Hữu An",
+        "specialty": "Tổng quát"
+    },
+    {
+        "id": 2,
+        "name": "Bác sĩ Trần Văn Bình",
+        "specialty": "Nha khoa"
+    },
+    {
+        "id": 3,
+        "name": "Bác sĩ Lê Thị Cẩm",
+        "specialty": "Mắt"
+    },
+    {
+        "id": 4,
+        "name": "Bác sĩ Phạm Quốc Dũng",
+        "specialty": "Tim mạch"
+    },
+    {
+        "id": 5,
+        "name": "Bác sĩ Đỗ Thị Hoa",
+        "specialty": "Tai mũi họng"
+    },
+    {
+        "id": 6,
+        "name": "Bác sĩ Võ Minh Khang",
+        "specialty": "Nội tiết"
+    },
+    {
+        "id": 7,
+        "name": "Bác sĩ Bùi Ngọc Lan",
+        "specialty": "Thần kinh"
+    },
+    {
+        "id": 8,
+        "name": "Bác sĩ Ngô Văn Minh",
+        "specialty": "Xét nghiệm"
+    },
+    {
+        "id": 9,
+        "name": "Bác sĩ Dương Huy Nam",
+        "specialty": "Siêu âm"
+    },
+    {
+        "id": 10,
+        "name": "Bác sĩ Hà Thị Oanh",
+        "specialty": "Chẩn đoán hình ảnh"
+    }
+]

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- jQuery UI -->
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/smoothness/jquery-ui.css">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th,
+        td {
+            border: 1px solid #ddd;
+            padding: 5px;
+            text-align: center;
+        }
+
+        th {
+            background: #f4f4f4;
+        }
+
+        .tooltip {
+            display: none;
+            position: absolute;
+            background: rgba(0, 0, 0, 0.8);
+            color: white;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 12px;
+            z-index: 1000;
+            white-space: nowrap;
+        }
+
+        .customer-name {
+            min-width: 300px;
+            text-align: left;
+        }
+
+        .room-name {
+            min-width: 300px;
+            text-align: left;
+        }
+
+        .sticky-column {
+            position: sticky;
+            left: 0;
+            background: #fff;
+            z-index: 2;
+            font-weight: bold;
+        }
+
+        .service-content {
+            color: white;
+            font-size: 14px;
+            border-radius: 5px;
+            cursor: pointer;
+            height: 100%;
+        }
+
+        .service-box {
+            color: white;
+            font-weight: bold;
+            padding: 5px;
+            border-radius: 4px;
+            position: relative;
+            cursor: pointer;
+            min-width: 60px;
+            height: 30px;
+        }
+
+        .day-1 {
+            background-color: #ffeb99;
+        }
+        .day-2 {
+            background-color: #99ff99;
+        }
+        .day-3 {
+            background-color: #99ccff;
+        }
+        .day-4 {
+            background-color: #ff9999;
+        }
+        .day-5 {
+            background-color: #d9b3ff;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>📅 Lịch Khám Bệnh Theo Bệnh nhân</h2>
+    <div style="overflow-x: auto;">
+        <table id="timetable-customer"></table>
+    </div>
+
+    <h2>📅 Lịch Khám Bệnh Theo Phòng</h2>
+    <div style="overflow-x: auto;">
+        <table id="timetable-room"></table>
+    </div>
+
+    <!-- Tooltip hiển thị thông tin -->
+    <div class="tooltip" id="tooltip"></div>
+    <script src="index.js"></script>
+</body>
+
+</html>
